@@ -4,7 +4,7 @@ Bu proje, kullanıcıların eğlenceli ve öğretici sorularla dolu bir quiz ç�
 
 # Project Title
 
-Bu proje, [Netlify](https://patika-quest-app.netlify.app/) üzerinde canlı olarak yayınlanmıştır. Aşağıdaki bağlantıdan projeyi inceleyebilirsiniz:
+Bu proje, Netlify üzerinde canlı olarak yayınlanmıştır. Aşağıdaki bağlantıdan projeyi inceleyebilirsiniz:
 
 [Demo](https://patika-quest-app.netlify.app/)
 
