@@ -4,9 +4,9 @@ Bu proje, kullanıcıların eğlenceli ve öğretici sorularla dolu bir quiz ç�
 
 # Project Title
 
-Bu proje, [Netlify](https://serene-marshmallow-837b88.netlify.app) üzerinde canlı olarak yayınlanmıştır. Aşağıdaki bağlantıdan projeyi inceleyebilirsiniz:
+Bu proje, [Netlify](https://patika-quest-app.netlify.app/) üzerinde canlı olarak yayınlanmıştır. Aşağıdaki bağlantıdan projeyi inceleyebilirsiniz:
 
-[Demo](https://serene-marshmallow-837b88.netlify.app)
+[Demo](https://patika-quest-app.netlify.app/)
 
 ## Proje Amacı
 
