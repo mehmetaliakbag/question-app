@@ -71,7 +71,7 @@ Bu uygulama, JavaScript ve React kullanarak bir quiz uygulamasının temel işle
 ![Quiz Ekranı](./QuizScreen.png)
 
 ### Sonuç Ekranı
-![Sonuç Ekranı](./ResultScreen.png)
+![Sonuç Ekranı](./ResultScreenUpdated.png)
 
 ## Geliştiren
 
